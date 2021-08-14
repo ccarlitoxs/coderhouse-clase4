@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "product": {
+      "title": "PC2",
+      "price": 7892,
+      "thumbnail": "www.fotos.com/foto3"
+    }
+  },
+  {
+    "id": 2,
+    "product": {
+      "title": "pc",
+      "price": "123",
+      "thumbnail": "rfrjfodmvf.com"
+    }
+  }
+]
